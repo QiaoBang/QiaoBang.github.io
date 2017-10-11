@@ -165,7 +165,9 @@ var f=new Foo('zhangsan',20)
 #### 返回this   ``` return this```
 
 ## 补充：
+
 * 构造函数
+
 ```
 function Foo(name,age){
   this.name=name
@@ -177,17 +179,23 @@ var f=new Foo('zhangsan',20)
 //var f1=new Foo('lisi',22) //创建多个对象
 
 ```
+
 * 构造函数-扩展
+
 ```
 var a={} //其实是var a=new Object()的语法糖
 var b=[] //其实是var b=new Array()的语法糖
 function Foo(){...} //其实是var Foo=new Function(...)
 //使用instanceof判断一个函数是否是一个变量的构造函数
 ```
+
 所有的 **引用类型（对象、数组、函数）** 都有构造函数，a的构造函数是Object()，b的构造函数是Array()，Foo的构造函数是Function()。所以假如想要判断一个变量是否为数组就可以使用
+
+
 ```
 var a={}
 a instanceof Array   //false
 ```
+
 ## 总结
 >函数的原型对象constructor默认指向函数本身，原型对象除了有原型属性外，为了实现继承，还有一个原型链指针proto，该指针指向上一层的原型对象，而上一层的原型对象的结构依然类似，这样利用proto一直指向Object的原型对象上，而Object的原型对象用Object.prototype.proto = null表示原型链的最顶端，如此变形成了javascript的原型链继承，同时也解释了为什么所有的javascript对象都具有Object的基本方法。
