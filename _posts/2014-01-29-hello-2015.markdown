@@ -2,7 +2,7 @@
 layout:     post
 title:      "Welcome to BigBangBro Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2017-08-29 12:00:00
 author:     "BigBangBro"
 header-img: "img/post-bg-2015.jpg"
 tags:
@@ -18,10 +18,10 @@ tags:
 BigBangBro的 Blog 就这么开通了。
 
 
-2015 年，BigBangBro总算有个地方可以好好写点东西了。
+2017 年，BigBangBro总算有个地方可以好好写点东西了。
 
 
-如果你恰好逛到了这里，希望你也能喜欢这个博客主题。
+如果你恰好逛到了这里，希望你能喜欢这个博客。
 
 
 
