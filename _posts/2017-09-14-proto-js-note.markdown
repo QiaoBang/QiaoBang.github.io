@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "JavaScript原型链的基本思考"
-subtitle:   "原型链的一些思考和整理"
+title:      "JavaScript原型链的基本理解"
+subtitle:   "一些思考和整理"
 date:       2017-09-14
 author:     "BigBangBro"
 header-img: "img/post-bg-js-version.jpg"
@@ -82,7 +82,7 @@ f.toString()    //要去f.__proto__.__proto__中查找
 console.log(Object.prototype) 
 console.log(Object.prototype.__proto__)    //为了避免死循环，所以此处输出null
 ```
-![Alt text](img\prototype.png)
+![Alt text](https://github.com/QiaoBang/QiaoBang.github.io/blob/master/img/prototype.png?raw=true)
 
 ### instanceof
 
