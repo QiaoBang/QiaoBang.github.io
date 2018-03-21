@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "Life in GuangZhou"
+subtitle:   " \"Hello World, Hello GuangZhou\""
+date:       2017-12-29 23:03:30
+author:     "BigBangBro"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “挤公交很痛苦. ”
+
+
+<p id = "build"></p>
+---
+
+在大四的第一个月，拿到了某上市公司的Offer，是做ERP实施顾问，工作地点在广州。对未来的惶恐使我快速接受了Offer，没有多想就一个人动身去了广州。
+
+
+
+
