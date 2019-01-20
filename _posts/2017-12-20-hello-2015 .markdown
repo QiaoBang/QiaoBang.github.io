@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "流水杂记"
+title:      "离开校园"
 subtitle:   " \"Hello World, Hello GuangZhou\""
 date:       2017-12-29 23:03:30
 author:     "BigBangBro"
