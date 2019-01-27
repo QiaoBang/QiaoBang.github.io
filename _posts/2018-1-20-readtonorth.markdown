@@ -6,7 +6,7 @@ date:       2018-1-20 23:43:32
 author:     "BigBangBro"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 生活
+    - 读书笔记
 ---
 
 > “来自BigBangBro的不成熟的小建议. ”
