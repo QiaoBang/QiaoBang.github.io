@@ -6,7 +6,7 @@ date:       2019-01-20 23:03:30
 author:     "BigBangBro"
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 读书心得
+    - 读书笔记
 ---
 
 > “不同于那些励志鸡血成功学，这本书可实践性很强，需要反复阅读。”
