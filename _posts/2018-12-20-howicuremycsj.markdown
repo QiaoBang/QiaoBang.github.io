@@ -15,4 +15,4 @@ tags:
 <p id = "build"></p>
 ---
 
-内容已被作者加密!!
+[内容已被作者加密!!](http://bigbangbro.com/ "加密内容")
