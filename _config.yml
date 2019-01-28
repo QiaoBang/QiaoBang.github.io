@@ -54,7 +54,17 @@ kramdown:
 #duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-disqus_username: qiaobang
+# disqus_username: qiaobang
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 9098c200b2b7bd7c96f0                           #生成的clientID
+  clientSecret: 18d4492f39d344a7fad9104c8b3e862adce68eae    #生成的clientSecret
+  repo: QiaoBang.github.io    #仓库名称
+  owner: QiaoBang    #github用户名
+  admin: QiaoBang
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 
