@@ -1,10 +1,11 @@
 # Site settings
 title: BigBangBro
-SEOTitle: 乔邦的博客 | BigBangBro
+SEOTitle: BigBangBro Blog
+# 乔邦的博客 | BigBangBro
 header-img: img/123.jpg
 email: holyshitok@gmail.com
 description: "作之不止的伪君子"
-keyword: "QiaoBang, BigBangBro, 乔邦, 前端，乔邦的博客"
+keyword: "QiaoBang, BigBangBro, "
 url: " https://qiaobang.github.io"              # your host, for absolute URL
 # baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -57,9 +58,9 @@ disqus_username: qiaobang
 
 
 
-# # Analytics settings
-# # Baidu Analytics
- #ba_track_id: cc3573f12bd73519fc1b837e87f6a53e
+  Analytics settings
+ Baidu Analytics
+ ba_track_id: 558a96a21223b1c09f874f21a2819127
 # # Google Analytics
 # ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 # ga_domain: huangxuan.me
@@ -67,7 +68,7 @@ disqus_username: qiaobang
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "作之不止的伪君子"
 sidebar-avatar: /img/cat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
