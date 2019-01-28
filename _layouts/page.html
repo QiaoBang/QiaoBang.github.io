@@ -22,8 +22,8 @@ layout: default
 	<div class="row">
         {% if site.sidebar == false %}
 <!-- NO SIDEBAR -->
-    <!-- Post Container -->
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-container">
+    <!-- PostList Container -->
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 postlist-container">
                 {{ content }}
             </div>
     <!-- Sidebar Container -->
@@ -63,13 +63,13 @@ layout: default
         {% else %}
 
 <!-- USE SIDEBAR -->
-    <!-- Post Container -->
+    <!-- PostList Container -->
     		<div class="
                 col-lg-8 col-lg-offset-1
                 col-md-8 col-md-offset-1
                 col-sm-12
                 col-xs-12
-                post-container
+                postlist-container
             ">
     			{{ content }}
     		</div>
@@ -103,7 +103,9 @@ layout: default
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">ABOUT ME</a></h5>
                     <div class="short-about">
                         {% if site.sidebar-avatar %}
-                            <img src="{{site.sidebar-avatar}}" />
+                            <a href="{{ site.baseurl }}/about">
+                                <img src="{{site.sidebar-avatar}}"/>
+                            </a>
                         {% endif %}
                         {% if site.sidebar-about-description %}
                             <p>{{site.sidebar-about-description}}</p>
@@ -120,9 +122,20 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+                            <!-- add jianshu add target = "_blank" to <a> by BY -->
+                            {% if site.jianshu_username %}
+                            <li>
+                                <a target="_blank" href="https://www.jianshu.com/u/{{ site.jianshu_username }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa  fa-stack-1x fa-inverse">简</i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
                             {% if site.twitter_username %}
                             <li>
-                                <a href="https://twitter.com/{{ site.twitter_username }}">
+                                <a target="_blank" href="https://twitter.com/{{ site.twitter_username }}">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -130,6 +143,7 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+			    
                             {% if site.zhihu_username %}
                             <li>
                                 <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
@@ -150,6 +164,30 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+			
+			    
+			    <!-- add wechat account platform, douban by Jasmineooo -->                    
+			    {% if site.wechat_username %}
+			    <li>
+				<a target="_blank" href="https://weixin.sogou.com/weixin?type=1&s_from=input&query={{ site.wechat_username }}&ie=utf8&_sug_=n&_sug_type_=">
+				    <span class="fa-stack fa-lg">
+					<i class="fa fa-circle fa-stack-2x"></i>
+					<i class="fa fa-weixin fa-stack-1x fa-inverse"></i>
+				    </span>
+				</a>
+			    </li>
+			    {% endif %}
+			    {% if site.douban_username %}
+				    <li>
+					<a target="_blank" href="https://www.douban.com/people/{{ site.douban_username }}">
+					    <span class="fa-stack fa-lg">
+						<i class="fa fa-circle fa-stack-2x"></i>
+						<i class="fa  fa-stack-1x fa-inverse">豆</i>
+					    </span>
+					</a>
+				    </li>
+			    {% endif %}
+				
                             {% if site.facebook_username %}
                             <li>
                                 <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username }}">
@@ -170,7 +208,11 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
+                            
                         </ul>
+                        {% if site.email %}
+                            <p>✉️ {{site.email}}</p>
+                        {% endif %}
                     </div>
                 </section>
                 <!-- Friends Blog -->

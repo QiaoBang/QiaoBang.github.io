@@ -1,3 +1,4 @@
+﻿
 # Site settings
 title: BigBangBro
 SEOTitle: BigBangBro Blog
@@ -9,6 +10,10 @@ keyword: "QiaoBang, BigBangBro, "
 url: " https://qiaobang.github.io"              # your host, for absolute URL
 # baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "作之不止的伪君子"
+sidebar-avatar: /img/cat.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
@@ -20,10 +25,8 @@ github_username:    QiaoBang
 #facebook_username:  
 
 
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
-highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
@@ -33,7 +36,8 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
+
 
 
 
@@ -42,24 +46,19 @@ gems: [jekyll-paginate]
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
 
-# Disqus settings
-#disqus_username: _your_disqus_short_name_
+# 评论系统
 
-# Duoshuo settings
-#duoshuo_username: huxblog
-# Share component is depend on Comment so we can NOT use share only.
-#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
-# disqus_username: qiaobang
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 9098c200b2b7bd7c96f0                           #生成的clientID
+  clientID: 9098c200b2b7bd7c96f0                          #生成的clientID
   clientSecret: 18d4492f39d344a7fad9104c8b3e862adce68eae    #生成的clientSecret
   repo: QiaoBang.github.io    #仓库名称
   owner: QiaoBang    #github用户名
@@ -67,45 +66,39 @@ gitalk:
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
+# 统计
 
-# # Analytics settings
-# # Baidu Analytics
-#  ba_track_id: 558a96a21223b1c09f874f21a2819127
-# # # Google Analytics
-# # ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#  ga_domain: auto
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 558a96a21223b1c09f874f21a2819127
+             
+# Google Analytics
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
-
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "作之不止的伪君子"
-sidebar-avatar: /img/cat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-tags: true                     # 是否使用首页标签
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
 
 
 
 # Friends
 # friends: [
 #     {
-#         title: "Hux Blog",
-#         href: "http://huangxuan.me"
+#         title: "Kaggle",
+#         href: "https://www.kaggle.com/"
 #     },{
-#         title: "Foo",
-#         href: "#"
-#     },{
-#         title: "Bar",
-#         href: "#"
-#     },{
-#         title: "Example Friends",
-#         href: "#"
-#     },{
-#         title: "It helps SEO",
-#         href: "#"
+#         title: "天池AI",
+#         href: "https://tianchi.aliyun.com/home/"
 #     }
 # ]
