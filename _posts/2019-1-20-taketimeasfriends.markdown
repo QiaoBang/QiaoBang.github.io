@@ -4,7 +4,7 @@ title:      "用正确的方法做正确的事"
 subtitle:   " \"《把时间当作朋友》读书笔记\""
 date:       2019-01-20 23:03:30
 author:     "BigBangBro"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/book-bg.jpg"
 tags:
     - 读书笔记
 ---
