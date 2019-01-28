@@ -58,10 +58,9 @@ disqus_username: qiaobang
 
 
 
- # Analytics settings
+# # Analytics settings
 # # Baidu Analytics
  #ba_track_id: cc3573f12bd73519fc1b837e87f6a53e
-               558a96a21223b1c09f874f21a2819127
 # # Google Analytics
 # ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 # ga_domain: huangxuan.me
@@ -69,7 +68,7 @@ disqus_username: qiaobang
 
 
 # Sidebar settings
-sidebar: false                           # whether or not using Sidebar.
+sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "作之不止的伪君子"
 sidebar-avatar: /img/cat.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
