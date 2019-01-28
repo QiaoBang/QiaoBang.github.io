@@ -4,7 +4,7 @@ title:      "冬日阅读指北"
 subtitle:  
 date:       2018-1-20 23:43:32
 author:     "BigBangBro"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/book-bg.jpg"
 tags:
     - 读书笔记
 ---

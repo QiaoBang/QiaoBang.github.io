@@ -4,7 +4,7 @@ title:      "被爱羁绊的人生"
 subtitle:   " \"《无声告白》读书笔记\""
 date:       2018-3-7 21:03:42
 author:     "BigBangBro"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/book-bg.jpg"
 tags:
     - 读书笔记
 ---

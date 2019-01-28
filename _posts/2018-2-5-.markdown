@@ -4,7 +4,7 @@ title:      "你妈死了"
 subtitle:   " \"《异乡人》读书笔记\""
 date:       2018-2-5 22:03:30
 author:     "BigBangBro"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/book-bg.jpg"
 tags:
     - 读书笔记
 ---
