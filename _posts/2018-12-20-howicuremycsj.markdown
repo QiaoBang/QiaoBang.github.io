@@ -15,4 +15,6 @@ tags:
 <p id = "build"></p>
 ---
 
-[内容已被作者加密!!](http://bigbangbro.com/ "加密内容")
+[该文档为加密内容!!](http://bigbangbro.com/ "返回主页")
+
+The content has been encrypted by the author!!
