@@ -12,8 +12,6 @@ tags:
 
 
 <p id = "build"></p>
-[TOC]
-
 ## 新闻正文
 
 Lipstick in kindergarten? South Korea's K-beauty industry now aims for super young.
