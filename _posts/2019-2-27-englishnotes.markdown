@@ -13,13 +13,11 @@ tags:
 <p id = "build"></p>
 [TOC]
 
-# Lipstick in kindergarten? South Korea's K-beauty industry now aims for super young.
+## 新闻正文
+
+Lipstick in kindergarten? South Korea's K-beauty industry now aims for super young.
 
 > 才上幼儿园就涂口红？韩国美妆行业正瞄准幼龄孩童
-
-------
-
-## 新闻正文
 
 South Korea's cosmetics industry,known as K-beauty,has become an Asian powerhouse andglobal phenomenon for its rigorous step-by-step regimens.
 
