@@ -29,28 +29,62 @@ Renting a property in the UK can be a bleak business. The average monthly rent r
 
   It can be a difficult business getting a pay raise or a job promotion.
 
-+ 
-
-
 With spiralling rents leaving many people with barely any disposable income, let alone the means to save towards a deposit, some are now choosing alternatives.
+
++ With spiralling rents leaving many people....  ==  Spiralling rents are leaving many people....
+
++ spiralling  adj.急速上升的
+
++ disposable  adj.可丢弃的，此处译为可支配的
+
++ the means to do sth  做到某事的办法
+
++ deposit  n.定金
+
++ save towards a deposit  存够定金
+
+  The money I made this summer will go towards my college fund.
 
 ### The older choice
 
 Office administrator Tina Gotla-Aluri, 42, was struggling to cope with the £950 a month she was paying for her house share in Putney, south-west London, when a friend suggested Share and Care Homeshare, which matches older homeowners who have a spare room with people who can offer practical help in exchange. She now lives in Putney with a man in his 90s and pays £180 a month to the scheme.
 
++ cope with  对付，应对
++ scheme  n.方案，计划，体系，阴谋。此处译为平台
+
 In return, Gotla-Aluri provides companionship, goes food shopping, and cooks meals. “He is quite well travelled and food is one of the things we have bonded over, ” she says. “I cook British food like Sunday dinners and sometimes Indian or Moroccan food. It’s mutually beneficial.”
+
++ bond over sth   在某个话题上和某人建立联系
+
++ mutually  adj.相互的
+
+  a mutually convenient time
 
 ### Sitting it out
 
++ sit sth out  一直等到....结束 
++ 此处双关①替人看家②等到高价房租结束
+
 While some people house-sit for free to get a taste of luxury or a different life for a few weeks, designer Jennifer Hamley, 39, and her husband, Ben, 37, have turned it into a way to live rent-free.
+
++ house-sit  帮人看家
 
 The couple house-sit through TrustedHousesitters.com, which connects home and pet owners with house-sitters and costs each party £89 for an annual membership. They house-sit mainly in Brighton, taking care of pets, the home, post and watering plants.
 
++ connect A with B  把AB联系起来
++ post  信件（英式用法）
+
 “It is a peace of mind for many homeowners. A homeowner doesn’t need to get anyone to check in on the house, and pet owners don’t have to pay kennels, catteries or dog walkers.”
 
++ peace of mind  内心的平静；放心
 
++ check in sth  时不时检查一下
 
-​                                                                                                                                               ——The Guardian
++ kennel  狗舍
+
++ cattery 猫舍​                                                                  
+
+  ​                                                                                                                                ——The Guardian
 
 
 
