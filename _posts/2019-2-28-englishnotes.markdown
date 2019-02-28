@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "imaginative alternatives"
+title:      "Imaginative alternatives"
 subtitle:   " \"英语学习笔记\""
 date:       2019-02-28 10:03:52
 author:     "BigBangBro"
@@ -16,7 +16,21 @@ tags:
 
 ### How sky-high rents forced people into imaginative alternatives
 
++ force sb into sth
++ alternatives  n.可供选择的解决办法
+
 Renting a property in the UK can be a bleak business. The average monthly rent rose to £932 last month and in London it is even more expensive at £1, 588, according to new figures.
+
++ bleak  adj.惨淡的
+
++ renting a property  租房
+
++ business  此处指麻烦或复杂的事
+
+  It can be a difficult business getting a pay raise or a job promotion.
+
++ 
+
 
 With spiralling rents leaving many people with barely any disposable income, let alone the means to save towards a deposit, some are now choosing alternatives.
 
