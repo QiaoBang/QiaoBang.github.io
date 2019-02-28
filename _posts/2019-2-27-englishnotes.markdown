@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Lipstick in kindergarten"
-subtitle:   " \"流利阅读学习笔记\""
+subtitle:   " \"英语学习笔记\""
 date:       2019-02-27 10:03:52
 author:     "BigBangBro"
 header-img: "img/book-bg.jpg"
