@@ -18,7 +18,7 @@ sidebar-avatar: /img/cat.jpg     # use absolute URL, seeing it's used in both `/
 
 # SNS settings
 RSS: false
-weibo_username:  BigBangBro
+#weibo_username:  BigBangBro
 #zhihu_username:     
 github_username:    QiaoBang
 #twitter_username:  
