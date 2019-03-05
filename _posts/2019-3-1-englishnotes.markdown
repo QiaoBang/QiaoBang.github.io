@@ -18,6 +18,8 @@ tags:
 
 Huawei Technologies Co. announced a smartphone that unfolds into a small tablet computer, potentially rendering the need to carry two separate devices obsolete.
 
++ 
+
 The Mate X supports next-generation 5G networks and will cost 2, 299 euros ($2, 606) when released in the summer. When folded, the Mate X has a 6.6-inch display; but when opened out, it becomes an 8-inch tablet computer. It’s the second folding phone announced by a major manufacturer within a week. Samsung revealed the Galaxy Fold on Wednesday.
 
 The market for smartphones is slowing, and manufacturers are scrambling to find new ways to convince consumers they should upgrade their devices. Next-generation high-speed networks are still far away from mainstream availability, so device makers are looking at new device form factors to conjure up excitement.
