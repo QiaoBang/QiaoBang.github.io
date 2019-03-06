@@ -14,11 +14,11 @@ tags:
 <p id = "build"></p>
 ## 新闻正文
 
-Lipstick in kindergarten? South Korea's K-beauty industry now aims for super young.
+**Lipstick** in kindergarten? South Korea's K-beauty industry now **aims for** super young.
 
 > 才上幼儿园就涂口红？韩国美妆行业正瞄准幼龄孩童
 
-South Korea's cosmetics industry,known as K-beauty,has become an Asian powerhouse andglobal phenomenon for its rigorous step-by-step regimens.
+South Korea's **cosmetics** **industry**,known as **K-beauty**,has become an Asian **powerhouse** and global **phenomenon** for its **rigorous** step-by-step **regimens**.
 
 - cosmetics  n.化妆品
 
@@ -38,7 +38,7 @@ South Korea's cosmetics industry,known as K-beauty,has become an Asian powerhous
 
 - regimens  n.养生法（此处译为美容法）
 
-But exacting beauty norms also put enormous pressure on South Korean women,making the country one of the world's centers for plastic surgery.And increasingly,the beauty industry is looking at younger and younger girls.
+But **exacting** beauty **norms** also put **enormous** pressure on South Korean women,making the country one of the world's centers for **plastic surgery**.And **increasingly**,the beauty industry is **looking at** younger and younger girls.
 
 - exacting  adj.严格的
 
@@ -48,7 +48,7 @@ But exacting beauty norms also put enormous pressure on South Korean women,makin
 
   *plastic surgeon*  *整形外科医生*
 
-A YouTuBe bideo of a 7-year-old putting on lipstick,titled "I want to wear makeup like mom,"has attracted 4,3 million views,while similar videos show young girls sharing their "elementary school makeup routine" and "unboxing my Hello Kitty makeup kit"
+A YouTube video of a 7-year-old putting on lipstick,titled "I want to wear makeup like mom,"has attracted 4,3 million views,while similar videos show young girls sharing their "**elementary** **school** makeup routine" and "**unboxing** my Hello Kitty makeup **kit**"
 
 - wear makeup == put on makeup 化妆
 
@@ -62,7 +62,7 @@ A YouTuBe bideo of a 7-year-old putting on lipstick,titled "I want to wear makeu
 
   *a first-aid kit  急救箱*
 
-This is hardly a trend that is exclusive to South Korea.For decades,academics of all stripes have pored over the impact of pressure on teenagers and young women in the West to conform with unreasonable standards for appearance and body type.
+This is hardly a trend that is **exclusive** to South Korea.For decades,academics of all stripes have **pored over** the impact of pressure on teenagers and young women in the West to **conform with** unreasonable standards for appearance and body type.
 
 - exclusive adj.特有的
 
@@ -76,11 +76,11 @@ This is hardly a trend that is exclusive to South Korea.For decades,academics of
 
   *to conform with a strict dress code* *遵守严格的着装规范*
 
-But such concerns in South Korea also now include girls so young they can barely read the packaging on the beauty products.
+But such concerns in South Korea also now include girls so young they can barely read the **packaging** on the beauty products.
 
 - ....girls (who are) so young (that).... 
 
-"Form K-pop divas to K-beauty cosmetics, the market capitalizing on women's objectification has become a hyper-saturated 'red ocean' in South Korea," said Yoon-Kim of Konkuk University.
+"Form **K-pop divas** to K-beauty cosmetics, the market **capitalizing on** **women's objectification** has become a **hyper-saturated** 'red ocean' in South Korea," said Yoon-Kim of Konkuk University.
 
 - Konkuk University  韩国建国大学
 
@@ -102,7 +102,7 @@ But such concerns in South Korea also now include girls so young they can barely
 
 - red ocean  红海市场
 
-"The market sees a 'blue ocean' for expansion in younger customers, ready to instigate and monetize their insecurities about their appearance. "
+"The market sees a 'blue ocean' for **expansion** in younger customers, ready to **instigate** and **monetize** their **insecurities** about their appearance. "
 
 - blue ocean  蓝海市场
 
