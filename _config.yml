@@ -1,26 +1,21 @@
 ﻿
 # Site settings
-title: Sisyphus's Task
-SEOTitle: Sisyphus's Task
-# 乔邦的博客 | BigBangBro
+# 窥屏狗宁来啦~
+title: 七落锁
+SEOTitle: 七落锁
 header-img: img/123.jpg
-email: holyshitok@gmail.com
-description: "儒雅随和"
-keyword: "QiaoBang, BigBangBro, "
-url: " https://qiaobang.github.io"              # your host, for absolute URL
-# baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+description: "一句封喉。"
+keyword: "七落锁, 东江水 "
+url: " https://qiluosuo.github.io"              # host, for absolute URL
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "儒雅随和"
+sidebar-about-description: "一句封喉。"
 sidebar-avatar: /img/cat.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
-
 
 # SNS settings
 RSS: false
-#weibo_username:  BigBangBro
-#zhihu_username:     
-github_username:    QiaoBang
+#zhihu_username:代码你也窥屏？窥屏代码的你妈死了     
 #twitter_username:  
 #facebook_username:  
 
@@ -32,14 +27,9 @@ paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
-
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 plugins: [jekyll-paginate]
-
-
-
 
 # Markdown settings
 # replace redcarpet to kramdown,
@@ -50,55 +40,23 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
-
 # 评论系统
 
-
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 9098c200b2b7bd7c96f0                          #生成的clientID
-  clientSecret: 18d4492f39d344a7fad9104c8b3e862adce68eae    #生成的clientSecret
-  repo: QiaoBang.github.io    #仓库名称
-  owner: QiaoBang    #github用户名
-  admin: QiaoBang
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
 
 # 统计
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 558a96a21223b1c09f874f21a2819127
-             
+ba_track_id: 558a96a21223b1c09f874f21a2819127           
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
-
-
+#ga_domain: auto               
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
-
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-
-# Friends
-# friends: [
-#     {
-#         title: "Kaggle",
-#         href: "https://www.kaggle.com/"
-#     },{
-#         title: "天池AI",
-#         href: "https://tianchi.aliyun.com/home/"
-#     }
-# ]
