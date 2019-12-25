@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "最大的格局"
-subtitle:   " \" \""
+subtitle:  
 date:       2019-12-26 9:33:12
 author:     "七落锁"
-header-img: "img/book-bg.jpg"
+header-img: "img/001.jpg"
 catalog: true
 tags:
     - 消失的文字
