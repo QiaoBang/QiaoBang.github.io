@@ -5,7 +5,7 @@ SEOTitle: Sisyphus's Task
 header-img: img/123.jpg
 email: holyshitok@gmail.com
 description: "儒雅随和"
-keyword: "QiaoBang, BigBangBro, "
+keyword: " BigBangBro, "
 url: " https://qiaobang.github.io"              # your host, for absolute URL
 # baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/cat.jpg     # use absolute URL, seeing it's used in both `/
 RSS: false
 #weibo_username:  BigBangBro
 #zhihu_username:     
-github_username:    QiaoBang
+#github_username:    
 #twitter_username:  
 #facebook_username:  
 
@@ -53,16 +53,6 @@ kramdown:
 
 # 评论系统
 
-
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 9098c200b2b7bd7c96f0                          #生成的clientID
-  clientSecret: 18d4492f39d344a7fad9104c8b3e862adce68eae    #生成的clientSecret
-  repo: QiaoBang.github.io    #仓库名称
-  owner: QiaoBang    #github用户名
-  admin: QiaoBang
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
